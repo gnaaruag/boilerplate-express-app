@@ -1,9 +1,9 @@
 ## Boilerplate Express App
 
-Made this for my convinience a while ago to reduce configuration of a new express app everytime it is needed
+Made this for my convenience a while ago to reduce the configuration of a new express app whenever it is needed
 ---
 
-Can clone repository in some local system
+Can clone the repository in some local system
 
 ```
 https://github.com/gnaaruag/boilerplate-express-app.git
