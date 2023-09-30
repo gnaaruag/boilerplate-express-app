@@ -1,0 +1,2 @@
+# add some rest api tests
+# rest client extension needs to be installed on vscode
